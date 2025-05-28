@@ -39,4 +39,4 @@ etl_vlans/
 
 ## 🖼️ Exemplo do Pipeline em Execução
 
-![Pipeline ETL - Exemplo](pipeline.jpeg)
+![Pipeline ETL - Exemplo](pipelinevlans.jpeg)
